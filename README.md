@@ -1,5 +1,5 @@
-![preview](Programming-Task1-screenshot.jpg)
 # 👩🏻‍💻 Personal Portfolio Website
+![preview](Programming-Task1-screenshot.jpg)
 
 This project is a personal portfolio website created as part of a university summer internship task.  
 It is built using HTML, CSS, and JavaScript.
