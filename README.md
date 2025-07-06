@@ -1,3 +1,4 @@
+![preview](Programming-Task1-screenshot.jpg)
 # 👩🏻‍💻 Personal Portfolio Website
 
 This project is a personal portfolio website created as part of a university summer internship task.  
